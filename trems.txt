@@ -1,0 +1,14 @@
+# trems.txt
+# original 原文名
+#     中文名
+#         描述。
+#         @classify 分類
+#         @classify 分類-次分類
+#         @common 俗稱1
+#         @common 俗稱2
+#         @note
+#             備註 Markdown 格式
+#         @link
+#             標題名稱 $ http://URL
+#             http://URL
+
