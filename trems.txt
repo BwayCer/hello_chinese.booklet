@@ -9,6 +9,238 @@
 #         @note
 #             備註 Markdown 格式
 #         @link
-#             標題名稱 $ http://URL
 #             http://URL
+#                 標題名稱
+#             http://URL
+
+access
+    訪問
+        @classify 電腦-程式語言
+
+attribute
+    特徵。
+        在超文本標記語言中指用於描述標籤所帶的屬性、標誌或資料。
+        @classify 電腦-程式語言
+        @note
+            表示低級別的屬性，有些語言無此用語。
+        @link
+            http://stackoverflow.com/questions/16751269/oop-terminology-class-attribute-property-field-data-member
+                OOP Terminology: class, attribute, property, field, data member - Stack Overflow
+
+class
+    類別
+        用於封裝相似的成員形成具特定功能組件。
+        @classify 電腦-程式語言
+        @note
+            因為經過封裝，無法直接使用。
+
+client
+    用戶端
+        與伺服器相對應，需連接伺服器以提供用戶服務的應用程式。
+        @classify 電腦
+        @common 客戶端
+        @note
+        @link
+            https://tw.dictionary.search.yahoo.com/search?p=client
+
+constructor
+    建構子
+        用於類別創建時執行的函式，同時也為一個判別兩物件是否出於同一個類別的關鍵字。
+        @classify 電腦-程式語言
+        @note
+            當程式關鍵字翻譯成中文時，其原意通常為某某者－做某某事的人。
+            而在程式裡與其說是「者」，反而翻譯成「子」帶有小東西之意（如： 運算子。）更合適。
+
+declaration
+    宣告
+        用於創建新變數的動作。
+        @classify 電腦-程式語言
+        @link
+            http://pydoing.blogspot.tw/2011/01/java-field.html
+                程式語言教學誌: Java 快速導覽 - 物件導向概念 宣告及定義屬性
+
+extend
+    擴展
+        @classify 字典
+
+# final
+#     常量
+#         @link
+#             http://ithelp.ithome.com.tw/articles/10158077
+#                 Java重點筆記四：Java的前置修飾詞(Modifier) - iT 邦幫忙
+
+function
+    函式
+        一種型別或宣告。
+        @classify 電腦-程式語言
+        @link
+            http://kurtyu1209.blogspot.tw/2011/10/function-method.html
+                Debug 9: 我們寫的是 Function 還是 Method ?
+
+future reserved word
+    預定字
+        未來的保留字。 可能在未來的擴展中變成關鍵字。
+        @classify 電腦-程式語言
+        @note
+            保留和預定（被保留）為同義，但與預定（預約，未發生的行為）不同。
+
+HyperText Markup Language
+    超文本標記語言
+        程式語言之一。
+        @classify 電腦-程式語言
+        @common HTML
+
+Hypertext transfer protocol
+    超文本傳輸協議
+        服器與服務端進行網路傳輸的一種規範。
+        @classify 程式規範
+        @common HTTP
+        @link
+            https://zh.wikipedia.org/wiki/超文本传输协议
+            http://blog.fens.me/nodejs-https-server/
+
+Hypertext Transfer Protocol Secure
+    超文本傳輸安全協議
+        伺服器與服務端進行網路傳輸的一種規範，為更安全的 HTTP 通道。
+        @classify 程式規範
+        @common HTTPS
+        @link
+            https://zh.wikipedia.org/wiki/超文本传输安全协议
+            http://blog.fens.me/nodejs-https-server/
+
+inheritance
+    繼承
+        @classify 字典
+
+inner
+    內部
+        n. 內部。 a. 內部的、隱晦的。
+        @classify 字典
+        @link
+            https://tw.dictionary.search.yahoo.com/search?p=inner
+                inner - Yahoo奇摩字典i
+    內部
+        指類別內部不對外的隱藏成員。
+        @classify 電腦-程式語言
+        @link
+            http://www.css88.com/doc/jsdoc/about-namepaths.html
+                JSDoc 3中使用名称路径 | JSDoc 介绍
+
+instance
+    實例
+        由類別新創出來的物件。
+        @classify 電腦-程式語言
+        @common 實體
+
+JavaScript
+    爪哇腳本
+        程式語言之一。
+        @classify 電腦-程式語言
+        @common JS
+
+key word
+    關鍵字
+        廣義而言，具特殊意義的字詞。
+        狹義而言，程式規範裡具語法功能的字。
+        @classify 電腦-程式語言
+        @link
+            http://pydoing.blogspot.tw/2010/12/javascript-reserved.html
+                程式語言教學誌: JavaScript 快速導覽 - 保留字
+
+member
+    成員
+        用以概括統稱屬性、方法或函式。
+        @classify 電腦-程式語言
+
+method
+    方法
+        被寫於類別裡還未能直接使用的函式。
+        @classify 電腦-程式語言
+        @link
+            http://kurtyu1209.blogspot.tw/2011/10/function-method.html
+                Debug 9: 我們寫的是 Function 還是 Method ?
+
+modifier
+    修飾子
+        非主要功能，但具一定效果的關鍵字，如：訪問級別（public，公開的； protected，保護的； private，私有的）。
+        @classify 電腦-程式語言
+        @common 訪問級別
+        @note
+            原本將其視為訪問級別的代稱，但看過 [Java重點筆記四：Java的前置修飾詞(Modifier) - iT 邦幫忙] 之後確定其為概念，而非語法。
+        @link
+            http://ithelp.ithome.com.tw/articles/10158077
+                Java重點筆記四：Java的前置修飾詞(Modifier) - iT 邦幫忙
+
+new
+    新創
+        由封裝類別中建立新物件的關鍵字。
+        @classify 電腦-程式語言
+
+object
+    物件
+        被新創的類別，有具體的功能。
+        @classify 電腦-程式語言
+        @note
+            物件導向程式裡萬物皆物件，故其為一種型別也為一種統稱。
+
+public
+    公開
+        @classify 電腦-程式語言
+
+private
+    私有
+        @classify 電腦-程式語言
+
+protected
+    受保護
+        @classify 電腦-程式語言
+        @link
+            http://stackoverflow.com/questions/8044186/how-to-create-protected-object-properties-in-javascript
+                prototype programming - How to Create Protected Object Properties in JavaScript - Stack Overflow
+
+reserve
+    保留、預定。
+        n. 保存物。 a. 保存、保留、預定。
+        @classify 字典
+        @link
+            https://tw.dictionary.search.yahoo.com/search?p=reserve
+                reserve - Yahoo奇摩字典
+
+reserved word
+    保留字
+        已被視作關鍵字看待，雖然當前可能仍未有功能。
+        @classify 電腦-程式語言
+
+static
+    靜態
+        a. 靜態的、不變的。
+        @classify 字典
+        @link
+            https://tw.dictionary.search.yahoo.com/search?p=static
+                static - Yahoo奇摩字典
+    靜態
+        指類別未實例化前，其擁有的成員。
+        @classify 電腦-程式語言
+        @link
+            https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Classes/static
+                static - JavaScript | MDN
+
+property
+    屬性
+        狀態的標誌或儲存資料用的變數。
+        @classify 電腦-程式語言
+
+server
+    伺服器
+        通過網路運行自動化程式的遠端電腦。
+        @classify 電腦
+        @common 雲端
+        @common 服務端
+        @link
+            https://tw.dictionary.search.yahoo.com/search?p=server
+
+var
+    變量
+        原意 variable。 用於宣告新變量。
+        @classify 電腦-程式語言
 
