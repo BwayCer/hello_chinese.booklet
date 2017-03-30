@@ -1,0 +1,12 @@
+---
+# - original: 原文名
+#   chinese: 中文名
+#   definitions: 描述
+#   classify: [ 分類, 分類-次分類 ]
+#   common: [ 俗稱 ]
+#   note:
+#       備註 Markdown 格式
+#   link:
+#       - 標題名稱 | http://URL
+#       - http://URL
+...
